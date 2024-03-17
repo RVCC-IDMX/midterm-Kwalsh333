@@ -1,0 +1,32 @@
+/* style for the header */
+header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aqua;
+    text-align: center;
+    padding-block: 30px;
+}
+
+/* sttyle for the title */
+header h1 {
+    border: 2px solid #333;
+    padding: 10px;
+    display: inline-block;
+    background-color: white; /* Add background color for the title box */
+}
+
+/* Stlye for the body */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: cadetblue;
+}
+
+/* Stlye for the main section */
+main {
+    padding: 20px;
+}
+
+/* CSS for the header image */
+.header-image {
+    width: 640px;
+    height: auto;
+}
