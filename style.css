@@ -11,7 +11,7 @@ header h1 {
     border: 2px solid #333;
     padding: 10px;
     display: inline-block;
-    background-color: white; /* Add background color for the title box */
+    background-color: white; 
 }
 
 /* Stlye for the body */
